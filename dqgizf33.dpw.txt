@@ -1,0 +1,16 @@
+﻿Added the markov generation changes
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   bin/com/markov/ListNode.class
+#	new file:   bin/com/markov/MarkovText.class
+#	new file:   bin/com/markov/MarkovTextImpl.class
+#	new file:   src/com/markov/ListNode.java
+#	new file:   src/com/markov/MarkovText.java
+#	new file:   src/com/markov/MarkovTextImpl.java
+#
+
